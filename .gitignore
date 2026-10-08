@@ -1,0 +1,23 @@
+# MMLU dataset — publicly downloadable, not committed (see README); the local
+# `mmlu` symlink to the Part 1 project is ignored too.
+/mmlu
+mmlu/data/
+mmlu/data.tar
+
+# Run outputs — regenerable, kept local only (see README / Outputs)
+results/
+real_run.log
+smoke.log
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Local / personal
+*.ods
+.DS_Store
+
+# Local-only drafts and agent notes (not published)
+blog_mmlu_reasoning.md
+info.md
