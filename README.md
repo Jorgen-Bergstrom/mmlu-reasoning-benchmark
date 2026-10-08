@@ -54,9 +54,9 @@ Reasoning adds **+8.7 points** (95% CI +6.3 to +11.1), exact McNemar
 **p ≈ 3.7 × 10⁻¹³** across 1,000 paired questions. It **fixed 118** questions
 and **broke 31**. Gains concentrate in mathematics, formal logic and physics.
 
-Run outputs are intentionally **not committed** (they are regenerable); see
-[Outputs](#outputs). The reasoning-arm predictions for the run above are
-available as a gzipped **Release** asset.
+Run outputs are intentionally **not committed** — they are regenerable by
+re-running the harness (see [Outputs](#outputs)). Only the headline numbers are
+recorded here.
 
 ## Requirements
 
